@@ -6,7 +6,7 @@ import os
 st.title("ART Finder-Automated Research and Trigger Finder")
 st.markdown(
     """
-he objective of ART Finder is to streamline the research phase of ad creation by automating data gathering and analysis.
+The objective of ART Finder is to streamline the research phase of ad creation by automating data gathering and analysis.
 
 """
 )
