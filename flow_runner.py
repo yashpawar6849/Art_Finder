@@ -2,7 +2,7 @@ import requests
 from typing import Optional
 
 BASE_API_URL = "https://api.langflow.astra.datastax.com"
-LANGFLOW_ID = "222d5a9b-adc6-4a87-9117-1dc37c25fc7c"
+LANGFLOW_ID = "b4edc44c-ac87-418c-8a5a-e4952f3e1ab4"
 
 
 def run_flow(
