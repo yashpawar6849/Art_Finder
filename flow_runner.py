@@ -1,8 +1,8 @@
 import requests
 from typing import Optional
 
-BASE_API_URL = "https://api.langflow.astra.datastax.com"
-LANGFLOW_ID = "b4edc44c-ac87-418c-8a5a-e4952f3e1ab4"
+BASE_API_URL = ""
+LANGFLOW_ID = ""
 
 
 def run_flow(
