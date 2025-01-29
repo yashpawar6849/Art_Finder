@@ -11,8 +11,8 @@ The objective of ART Finder is to streamline the research phase of ad creation b
 """
 )
 
-endpoint = "9a873ff6-171c-493d-9210-bdf672effd96"
-application_token = "AstraCS:JwZiZZHHjJPcbmjkCWFffxCR:3dd508c90822cee8036c64db4a1b1095ead1af4a666cc74e20e72f67d22b86d0"
+endpoint = ""
+application_token = ""
 output_type = "chat"
 input_type = "chat"
 
